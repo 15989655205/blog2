@@ -1,0 +1,19 @@
+D:\ljj\C#\core\net core\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.IRepository.dll
+D:\ljj\C#\core\net core\Blog.Repository\bin\Debug\netcoreapp3.1\Model.dll
+D:\ljj\C#\core\net core\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.csprojAssemblyReference.cache
+D:\ljj\C#\core\net core\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.AssemblyInfoInputs.cache
+D:\ljj\C#\core\net core\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.AssemblyInfo.cs
+G:\net core\net core\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.Repository.deps.json
+G:\net core\net core\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.Repository.dll
+G:\net core\net core\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.Repository.pdb
+G:\net core\net core\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.IRepository.dll
+G:\net core\net core\Blog.Repository\bin\Debug\netcoreapp3.1\Model.dll
+G:\net core\net core\Blog.Repository\bin\Debug\netcoreapp3.1\Blog.IRepository.pdb
+G:\net core\net core\Blog.Repository\bin\Debug\netcoreapp3.1\Model.pdb
+G:\net core\net core\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.csprojAssemblyReference.cache
+G:\net core\net core\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.AssemblyInfoInputs.cache
+G:\net core\net core\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.AssemblyInfo.cs
+G:\net core\net core\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.csproj.CopyComplete
+G:\net core\net core\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.dll
+G:\net core\net core\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.pdb
+G:\net core\net core\Blog.Repository\obj\Debug\netcoreapp3.1\Blog.Repository.csproj.CoreCompileInputs.cache

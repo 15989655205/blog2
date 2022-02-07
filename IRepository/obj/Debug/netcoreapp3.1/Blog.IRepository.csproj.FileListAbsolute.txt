@@ -1,0 +1,16 @@
+G:\net core\IRepository\bin\Debug\netcoreapp3.1\Model.dll
+G:\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csprojAssemblyReference.cache
+G:\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.AssemblyInfoInputs.cache
+G:\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.AssemblyInfo.cs
+G:\net core\net core\IRepository\bin\Debug\netcoreapp3.1\Blog.IRepository.deps.json
+G:\net core\net core\IRepository\bin\Debug\netcoreapp3.1\Blog.IRepository.dll
+G:\net core\net core\IRepository\bin\Debug\netcoreapp3.1\Blog.IRepository.pdb
+G:\net core\net core\IRepository\bin\Debug\netcoreapp3.1\Model.dll
+G:\net core\net core\IRepository\bin\Debug\netcoreapp3.1\Model.pdb
+G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csprojAssemblyReference.cache
+G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.AssemblyInfoInputs.cache
+G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.AssemblyInfo.cs
+G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csproj.CoreCompileInputs.cache
+G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csproj.CopyComplete
+G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.dll
+G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.pdb

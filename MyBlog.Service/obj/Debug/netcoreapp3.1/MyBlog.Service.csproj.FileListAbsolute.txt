@@ -1,0 +1,16 @@
+G:\net core\net core\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Service.deps.json
+G:\net core\net core\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Service.dll
+G:\net core\net core\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Service.pdb
+G:\net core\net core\MyBlog.Service\bin\Debug\netcoreapp3.1\Blog.IRepository.dll
+G:\net core\net core\MyBlog.Service\bin\Debug\netcoreapp3.1\Model.dll
+G:\net core\net core\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.IService.dll
+G:\net core\net core\MyBlog.Service\bin\Debug\netcoreapp3.1\Blog.IRepository.pdb
+G:\net core\net core\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.IService.pdb
+G:\net core\net core\MyBlog.Service\bin\Debug\netcoreapp3.1\Model.pdb
+G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.csprojAssemblyReference.cache
+G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.AssemblyInfoInputs.cache
+G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.AssemblyInfo.cs
+G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.csproj.CoreCompileInputs.cache
+G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.csproj.CopyComplete
+G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.dll
+G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.pdb

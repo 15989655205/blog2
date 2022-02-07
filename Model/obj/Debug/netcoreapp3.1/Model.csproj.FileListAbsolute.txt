@@ -1,0 +1,14 @@
+G:\net core\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+G:\net core\Model\bin\Debug\netcoreapp3.1\Model.dll
+G:\net core\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+G:\net core\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+G:\net core\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+G:\net core\net core\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+G:\net core\net core\Model\bin\Debug\netcoreapp3.1\Model.dll
+G:\net core\net core\Model\bin\Debug\netcoreapp3.1\Model.pdb
+G:\net core\net core\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+G:\net core\net core\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+G:\net core\net core\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+G:\net core\net core\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+G:\net core\net core\Model\obj\Debug\netcoreapp3.1\Model.dll
+G:\net core\net core\Model\obj\Debug\netcoreapp3.1\Model.pdb

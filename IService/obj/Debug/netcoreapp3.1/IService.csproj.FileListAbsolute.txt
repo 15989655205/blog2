@@ -1,0 +1,4 @@
+G:\net core\net core\IService\bin\Debug\netcoreapp3.1\Model.dll
+G:\net core\net core\IService\obj\Debug\netcoreapp3.1\IService.csprojAssemblyReference.cache
+G:\net core\net core\IService\obj\Debug\netcoreapp3.1\IService.AssemblyInfoInputs.cache
+G:\net core\net core\IService\obj\Debug\netcoreapp3.1\IService.AssemblyInfo.cs
