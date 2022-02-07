@@ -63,7 +63,7 @@ namespace MyBlog.JWT
             });
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

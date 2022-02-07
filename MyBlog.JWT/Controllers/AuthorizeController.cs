@@ -58,7 +58,7 @@ namespace MyBlog.JWT.Controllers
                     issuer: "http://localhost:6060",
                     audience: "http://localhost:5000",
                     claims: claims,
-                    expires: DateTime.Now.AddMinutes(30),
+                    expires: DateTime.Now.AddMinutes(60),
                     signingCredentials: creds);
                 var tokenStr = new JwtSecurityTokenHandler().WriteToken(token);
                 return ApiResultHelper.Success(tokenStr);

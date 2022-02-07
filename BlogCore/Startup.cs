@@ -5,9 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using Blog.IRepository;
 using Blog.Repository;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -36,6 +38,8 @@ namespace BlogCore
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+ 
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v12", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "My API666", Version = "v12" });
@@ -71,7 +75,9 @@ namespace BlogCore
                 IsAutoCloseConnection = true//自动释放
             }); //多个库就传List<IocConfig>
 
+            
             services.AddCustomerIOC();
+            services.AddCustomJWT();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -90,6 +96,8 @@ namespace BlogCore
             });
 
             app.UseRouting();
+
+            app.UseCookiePolicy();
 
             app.UseAuthentication();
             app.UseAuthorization();
