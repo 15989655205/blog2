@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Lx7qMoK28DscV9UQB6VhHP5JPCAkg4emXJEsgd5NfnFxsCwUlrt3n7vjct8pBbhbPhUSy24VC1zNrxS9TgpgiA==",
+  "dgSpecHash": "utLRNbhM5uSHhrYb7+Ne9aGuPnxzRwS15cEevqMBfM9q6sFyNrAtbX45rSWWG3s/CXdSTrbvHi0iMCPf3PcrKg==",
   "success": true,
   "projectFilePath": "G:\\net core\\net core\\MyBlog.JWT\\MyBlog.JWT.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\L\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\jwt\\8.9.0\\jwt.8.9.0.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\microsoft.aspnet.webapi.webhost\\4.0.20710\\microsoft.aspnet.webapi.webhost.4.0.20710.nupkg.sha512",
-    "C:\\Users\\L\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\L\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\microsoft.data.sqlite\\2.0.0\\microsoft.data.sqlite.2.0.0.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\microsoft.data.sqlite.core\\2.0.0\\microsoft.data.sqlite.core.2.0.0.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\microsoft.extensions.configuration\\1.1.2\\microsoft.extensions.configuration.1.1.2.nupkg.sha512",

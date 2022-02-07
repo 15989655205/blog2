@@ -49,9 +49,9 @@ namespace BlogCore.Controllers
         }
 
         [HttpPost("Delete")]
-        public async Task<ActionResult<ApiResult>> Delete(int id)
+        public async Task<ActionResult<ApiResult>> Delete()
         {
-
+            int id = Convert.ToInt32(this.User.FindFirst("Id").Value);
             var data = await iWriterInforService.DeleteAsync(id);
 
             if (!data)
@@ -61,9 +61,10 @@ namespace BlogCore.Controllers
             return ApiResultHelper.Success(data);
         }
         [HttpPost("Edit")]
-        public async Task<ActionResult<ApiResult>> Edit(int id, string name)
+        public async Task<ActionResult<ApiResult>> Edit( string name)
         {
 
+            int id = Convert.ToInt32(this.User.FindFirst("Id").Value);
             var data = await iWriterInforService.FindAsync(id);
             if (data == null) return ApiResultHelper.Error("找不到此用户");
             data.Name = name;
@@ -75,5 +76,6 @@ namespace BlogCore.Controllers
             }
             return ApiResultHelper.Success(res);
         }
+
     }
 }

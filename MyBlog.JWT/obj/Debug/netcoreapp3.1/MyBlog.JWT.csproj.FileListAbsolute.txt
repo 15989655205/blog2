@@ -54,9 +54,6 @@ G:\net core\net core\MyBlog.JWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.
 G:\net core\net core\MyBlog.JWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
 G:\net core\net core\MyBlog.JWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 G:\net core\net core\MyBlog.JWT\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-G:\net core\net core\MyBlog.JWT\obj\Debug\netcoreapp3.1\MyBlog.JWT.csproj.CoreCompileInputs.cache
-G:\net core\net core\MyBlog.JWT\obj\Debug\netcoreapp3.1\MyBlog.JWT.MvcApplicationPartsAssemblyInfo.cs
-G:\net core\net core\MyBlog.JWT\obj\Debug\netcoreapp3.1\MyBlog.JWT.MvcApplicationPartsAssemblyInfo.cache
 G:\net core\net core\MyBlog.JWT\bin\Debug\netcoreapp3.1\MyBlog.JWT.deps.json
 G:\net core\net core\MyBlog.JWT\bin\Debug\netcoreapp3.1\MyBlog.JWT.runtimeconfig.json
 G:\net core\net core\MyBlog.JWT\bin\Debug\netcoreapp3.1\MyBlog.JWT.runtimeconfig.dev.json

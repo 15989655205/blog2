@@ -24,18 +24,18 @@ namespace MyBlog.JWT.Controllers
     {
         //将"JWT"三个字母通过SHA256加密后得到
         private const string secret = "fc93cb07e1ad92898527100e58a1cf1d1e7f65e9a266a6f87f3c84feb541c7b3";
-        private readonly IWriterInforService iWriterInforService;
+        private readonly IWriterInforService _iWriterInforService;
 
-        public AuthorizeController(IWriterInforService _writerInforService)
+        public AuthorizeController(IWriterInforService  writerInforService)
         {
-            iWriterInforService = _writerInforService;
+            _iWriterInforService = writerInforService;
         }
 
         [HttpPost("Login")]
         public async Task<ApiResult> Login(string username, string userpwd)
         {
             var pwd = MD5Helper.Md5(userpwd);
-            var model = await iWriterInforService.FindAsync(x => x.Name == username && x.UserPwd == pwd);
+            var model = await _iWriterInforService.FindAsync(x => x.Name == username && x.UserPwd == pwd);
 
             if (model != null)
             {
@@ -72,5 +72,6 @@ namespace MyBlog.JWT.Controllers
 
             //WriterInfo
         }
+        
     }
 }
