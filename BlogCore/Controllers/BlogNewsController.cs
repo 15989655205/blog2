@@ -19,7 +19,7 @@ namespace BlogCore.Controllers
     {
         private readonly IBlogNewsService _iBlogNewsService;
         private readonly IMapper mapper;
-        public BlogNewsController(IBlogNewsService iBlogNewsService)
+        public BlogNewsController(IBlogNewsService iBlogNewsService) 
         {
             this._iBlogNewsService = iBlogNewsService;
         }
