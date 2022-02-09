@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Blog.IRepository;
 using Blog.Repository;
+using BlogCore.Utility._AutoMapper;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
@@ -75,9 +76,17 @@ namespace BlogCore
                 IsAutoCloseConnection = true//自动释放
             }); //多个库就传List<IocConfig>
 
-            
+
+            #region IOC依赖注入
             services.AddCustomerIOC();
+            #endregion
+            #region 鉴权
             services.AddCustomJWT();
+            #endregion
+
+            #region automapper
+            services.AddAutoMapper(typeof(CustomAutoMapperProfile));  //ServiceProfile为你Mapper的类
+            #endregion
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -63,3 +63,7 @@ G:\net core\net core\MyBlog.JWT\bin\Debug\netcoreapp3.1\JWT.dll
 G:\net core\net core\MyBlog.JWT\obj\Debug\netcoreapp3.1\MyBlog.JWT.dll
 G:\net core\net core\MyBlog.JWT\obj\Debug\netcoreapp3.1\MyBlog.JWT.pdb
 G:\net core\net core\MyBlog.JWT\obj\Debug\netcoreapp3.1\MyBlog.JWT.genruntimeconfig.cache
+G:\net core\net core\MyBlog.JWT\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\net core\net core\MyBlog.JWT\obj\Debug\netcoreapp3.1\MyBlog.JWT.csproj.CoreCompileInputs.cache
+G:\net core\net core\MyBlog.JWT\obj\Debug\netcoreapp3.1\MyBlog.JWT.MvcApplicationPartsAssemblyInfo.cs
+G:\net core\net core\MyBlog.JWT\obj\Debug\netcoreapp3.1\MyBlog.JWT.MvcApplicationPartsAssemblyInfo.cache

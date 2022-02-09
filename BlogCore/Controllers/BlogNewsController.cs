@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using BlogCore.Utility.ApiResult;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -13,10 +14,11 @@ namespace BlogCore.Controllers
 { 
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class BlogNewsController : ControllerBase
     {
         private readonly IBlogNewsService _iBlogNewsService;
+        private readonly IMapper mapper;
         public BlogNewsController(IBlogNewsService iBlogNewsService)
         {
             this._iBlogNewsService = iBlogNewsService;
@@ -26,7 +28,7 @@ namespace BlogCore.Controllers
         public async Task<ActionResult<ApiResult>> GetBlogNews()
         {
             var data= await _iBlogNewsService.QueryAsync();
-
+            
             if (data == null)
             {
                 return ApiResultHelper.Error("没有更多的值");

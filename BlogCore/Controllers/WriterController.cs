@@ -2,11 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
+//using System.Web.Http;
 using BlogCore.Utility._MD5;
 using BlogCore.Utility.ApiResult;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Model;
+using Model.DTO;
 using MyBlog.IService;
 
 namespace BlogCore.Controllers
@@ -16,9 +20,11 @@ namespace BlogCore.Controllers
     public class WriterController : ControllerBase
     {
         private readonly IWriterInforService iWriterInforService;
-        public WriterController(IWriterInforService _iWriterInforService)
+        private readonly IMapper mapper;
+        public WriterController(IWriterInforService _iWriterInforService, IMapper _mapper)
         {
             iWriterInforService = _iWriterInforService;
+            mapper= _mapper;
         }
 
         [HttpPost("Create")]
@@ -76,6 +82,13 @@ namespace BlogCore.Controllers
             }
             return ApiResultHelper.Success(res);
         }
-
+        [AllowAnonymous]
+        [HttpGet("FindWriter")]
+        public async Task<ApiResult> FindWriter(int id) //[FromServices]IMapper mapper,
+        {
+            var model= await iWriterInforService.FindAsync(id);
+            var dto= mapper.Map<WriterDTO>(model);
+            return ApiResultHelper.Success(dto);
+        }
     }
 }
