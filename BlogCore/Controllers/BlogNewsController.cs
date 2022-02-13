@@ -8,7 +8,9 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Model;
+using Model.DTO;
 using MyBlog.IService;
+using SqlSugar;
 
 namespace BlogCore.Controllers
 { 
@@ -87,6 +89,18 @@ namespace BlogCore.Controllers
                 return ApiResultHelper.Error("修改失败");
             }
             return ApiResultHelper.Success(res);
+        }
+        [HttpGet("BlogNews")]
+        public async Task<ActionResult<ApiResult>> GetBlogNewsPage([FromServices]IMapper mapper,int page,int size)
+        {
+            RefAsync<int>  total = 0; 
+            var data = await _iBlogNewsService.QueryAsync(page,size, total);
+            var result= mapper.Map<BlogNewsDTO>(data);
+            if (data == null)
+            {
+                return ApiResultHelper.Error("没有更多的值");
+            }
+            return ApiResultHelper.Success(result);
         }
     }
 }

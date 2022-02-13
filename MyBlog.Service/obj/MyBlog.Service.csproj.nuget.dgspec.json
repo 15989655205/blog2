@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\net core\\net core\\MyBlog.Service\\MyBlog.Service.csproj": {}
+    "D:\\ljj\\C#\\core\\blog2\\MyBlog.Service\\MyBlog.Service.csproj": {}
   },
   "projects": {
-    "G:\\net core\\net core\\IRepository\\Blog.IRepository.csproj": {
+    "D:\\ljj\\C#\\core\\blog2\\IRepository\\Blog.IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\net core\\net core\\IRepository\\Blog.IRepository.csproj",
+        "projectUniqueName": "D:\\ljj\\C#\\core\\blog2\\IRepository\\Blog.IRepository.csproj",
         "projectName": "Blog.IRepository",
-        "projectPath": "G:\\net core\\net core\\IRepository\\Blog.IRepository.csproj",
-        "packagesPath": "C:\\Users\\L\\.nuget\\packages\\",
-        "outputPath": "G:\\net core\\net core\\IRepository\\obj\\",
+        "projectPath": "D:\\ljj\\C#\\core\\blog2\\IRepository\\Blog.IRepository.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\ljj\\C#\\core\\blog2\\IRepository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\L\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "G:\\net core\\net core\\Model\\Model.csproj": {
-                "projectPath": "G:\\net core\\net core\\Model\\Model.csproj"
+              "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj": {
+                "projectPath": "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj"
               }
             }
           }
@@ -69,24 +66,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\net core\\net core\\IService\\MyBlog.IService.csproj": {
+    "D:\\ljj\\C#\\core\\blog2\\IService\\MyBlog.IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\net core\\net core\\IService\\MyBlog.IService.csproj",
+        "projectUniqueName": "D:\\ljj\\C#\\core\\blog2\\IService\\MyBlog.IService.csproj",
         "projectName": "MyBlog.IService",
-        "projectPath": "G:\\net core\\net core\\IService\\MyBlog.IService.csproj",
-        "packagesPath": "C:\\Users\\L\\.nuget\\packages\\",
-        "outputPath": "G:\\net core\\net core\\IService\\obj\\",
+        "projectPath": "D:\\ljj\\C#\\core\\blog2\\IService\\MyBlog.IService.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\ljj\\C#\\core\\blog2\\IService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\L\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,8 +93,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "G:\\net core\\net core\\Model\\Model.csproj": {
-                "projectPath": "G:\\net core\\net core\\Model\\Model.csproj"
+              "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj": {
+                "projectPath": "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj"
               }
             }
           }
@@ -134,24 +128,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\net core\\net core\\Model\\Model.csproj": {
+    "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\net core\\net core\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "G:\\net core\\net core\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\L\\.nuget\\packages\\",
-        "outputPath": "G:\\net core\\net core\\Model\\obj\\",
+        "projectPath": "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\ljj\\C#\\core\\blog2\\Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\L\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -195,24 +186,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\net core\\net core\\MyBlog.Service\\MyBlog.Service.csproj": {
+    "D:\\ljj\\C#\\core\\blog2\\MyBlog.Service\\MyBlog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\net core\\net core\\MyBlog.Service\\MyBlog.Service.csproj",
+        "projectUniqueName": "D:\\ljj\\C#\\core\\blog2\\MyBlog.Service\\MyBlog.Service.csproj",
         "projectName": "MyBlog.Service",
-        "projectPath": "G:\\net core\\net core\\MyBlog.Service\\MyBlog.Service.csproj",
-        "packagesPath": "C:\\Users\\L\\.nuget\\packages\\",
-        "outputPath": "G:\\net core\\net core\\MyBlog.Service\\obj\\",
+        "projectPath": "D:\\ljj\\C#\\core\\blog2\\MyBlog.Service\\MyBlog.Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\ljj\\C#\\core\\blog2\\MyBlog.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\L\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -225,11 +213,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "G:\\net core\\net core\\IRepository\\Blog.IRepository.csproj": {
-                "projectPath": "G:\\net core\\net core\\IRepository\\Blog.IRepository.csproj"
+              "D:\\ljj\\C#\\core\\blog2\\IRepository\\Blog.IRepository.csproj": {
+                "projectPath": "D:\\ljj\\C#\\core\\blog2\\IRepository\\Blog.IRepository.csproj"
               },
-              "G:\\net core\\net core\\IService\\MyBlog.IService.csproj": {
-                "projectPath": "G:\\net core\\net core\\IService\\MyBlog.IService.csproj"
+              "D:\\ljj\\C#\\core\\blog2\\IService\\MyBlog.IService.csproj": {
+                "projectPath": "D:\\ljj\\C#\\core\\blog2\\IService\\MyBlog.IService.csproj"
               }
             }
           }
@@ -257,7 +245,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

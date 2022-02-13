@@ -14,3 +14,18 @@ G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.cspro
 G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.csproj.CopyComplete
 G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.dll
 G:\net core\net core\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.pdb
+D:\ljj\C#\core\blog2\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Service.deps.json
+D:\ljj\C#\core\blog2\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Service.dll
+D:\ljj\C#\core\blog2\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.Service.pdb
+D:\ljj\C#\core\blog2\MyBlog.Service\bin\Debug\netcoreapp3.1\Blog.IRepository.dll
+D:\ljj\C#\core\blog2\MyBlog.Service\bin\Debug\netcoreapp3.1\Model.dll
+D:\ljj\C#\core\blog2\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.IService.dll
+D:\ljj\C#\core\blog2\MyBlog.Service\bin\Debug\netcoreapp3.1\Blog.IRepository.pdb
+D:\ljj\C#\core\blog2\MyBlog.Service\bin\Debug\netcoreapp3.1\MyBlog.IService.pdb
+D:\ljj\C#\core\blog2\MyBlog.Service\bin\Debug\netcoreapp3.1\Model.pdb
+D:\ljj\C#\core\blog2\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.csprojAssemblyReference.cache
+D:\ljj\C#\core\blog2\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.AssemblyInfoInputs.cache
+D:\ljj\C#\core\blog2\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.AssemblyInfo.cs
+D:\ljj\C#\core\blog2\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.csproj.CopyComplete
+D:\ljj\C#\core\blog2\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.dll
+D:\ljj\C#\core\blog2\MyBlog.Service\obj\Debug\netcoreapp3.1\MyBlog.Service.pdb

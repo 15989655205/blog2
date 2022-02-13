@@ -10,3 +10,14 @@ G:\net core\net core\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.Cor
 G:\net core\net core\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.CopyComplete
 G:\net core\net core\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.dll
 G:\net core\net core\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.pdb
+D:\ljj\C#\core\blog2\IService\bin\Debug\netcoreapp3.1\MyBlog.IService.deps.json
+D:\ljj\C#\core\blog2\IService\bin\Debug\netcoreapp3.1\MyBlog.IService.dll
+D:\ljj\C#\core\blog2\IService\bin\Debug\netcoreapp3.1\MyBlog.IService.pdb
+D:\ljj\C#\core\blog2\IService\bin\Debug\netcoreapp3.1\Model.dll
+D:\ljj\C#\core\blog2\IService\bin\Debug\netcoreapp3.1\Model.pdb
+D:\ljj\C#\core\blog2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csprojAssemblyReference.cache
+D:\ljj\C#\core\blog2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.AssemblyInfoInputs.cache
+D:\ljj\C#\core\blog2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.AssemblyInfo.cs
+D:\ljj\C#\core\blog2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.CopyComplete
+D:\ljj\C#\core\blog2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.dll
+D:\ljj\C#\core\blog2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.pdb

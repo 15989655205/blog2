@@ -14,3 +14,14 @@ G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csproj
 G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csproj.CopyComplete
 G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.dll
 G:\net core\net core\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.pdb
+D:\ljj\C#\core\blog2\IRepository\bin\Debug\netcoreapp3.1\Blog.IRepository.deps.json
+D:\ljj\C#\core\blog2\IRepository\bin\Debug\netcoreapp3.1\Blog.IRepository.dll
+D:\ljj\C#\core\blog2\IRepository\bin\Debug\netcoreapp3.1\Blog.IRepository.pdb
+D:\ljj\C#\core\blog2\IRepository\bin\Debug\netcoreapp3.1\Model.dll
+D:\ljj\C#\core\blog2\IRepository\bin\Debug\netcoreapp3.1\Model.pdb
+D:\ljj\C#\core\blog2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csprojAssemblyReference.cache
+D:\ljj\C#\core\blog2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.AssemblyInfoInputs.cache
+D:\ljj\C#\core\blog2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.AssemblyInfo.cs
+D:\ljj\C#\core\blog2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csproj.CopyComplete
+D:\ljj\C#\core\blog2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.dll
+D:\ljj\C#\core\blog2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.pdb

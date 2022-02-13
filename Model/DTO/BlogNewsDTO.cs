@@ -16,8 +16,8 @@ namespace Model.DTO
         public int TypeId { get; set; }
         public int WriterId { get; set; }
          
-        public TypeInfo TypeInfo { get; set; }
+        public string TypeName { get; set; }
          
-        public WriterInfo WriterInfo { get; set; }
+        public string WriterName { get; set; }
     }
 }
