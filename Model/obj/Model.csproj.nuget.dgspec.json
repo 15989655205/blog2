@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj": {}
+    "G:\\net core\\net core2\\Model\\Model.csproj": {}
   },
   "projects": {
-    "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj": {
+    "G:\\net core\\net core2\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj",
+        "projectUniqueName": "G:\\net core\\net core2\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "D:\\ljj\\C#\\core\\blog2\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\ljj\\C#\\core\\blog2\\Model\\obj\\",
+        "projectPath": "G:\\net core\\net core2\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\L\\.nuget\\packages\\",
+        "outputPath": "G:\\net core\\net core2\\Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\L\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

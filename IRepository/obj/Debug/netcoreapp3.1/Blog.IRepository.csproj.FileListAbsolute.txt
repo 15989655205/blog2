@@ -25,3 +25,15 @@ D:\ljj\C#\core\blog2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.Assemb
 D:\ljj\C#\core\blog2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csproj.CopyComplete
 D:\ljj\C#\core\blog2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.dll
 D:\ljj\C#\core\blog2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.pdb
+G:\net core\net core2\IRepository\bin\Debug\netcoreapp3.1\Blog.IRepository.deps.json
+G:\net core\net core2\IRepository\bin\Debug\netcoreapp3.1\Blog.IRepository.dll
+G:\net core\net core2\IRepository\bin\Debug\netcoreapp3.1\Blog.IRepository.pdb
+G:\net core\net core2\IRepository\bin\Debug\netcoreapp3.1\Model.dll
+G:\net core\net core2\IRepository\bin\Debug\netcoreapp3.1\Model.pdb
+G:\net core\net core2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csprojAssemblyReference.cache
+G:\net core\net core2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.AssemblyInfoInputs.cache
+G:\net core\net core2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.AssemblyInfo.cs
+G:\net core\net core2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csproj.CoreCompileInputs.cache
+G:\net core\net core2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.csproj.CopyComplete
+G:\net core\net core2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.dll
+G:\net core\net core2\IRepository\obj\Debug\netcoreapp3.1\Blog.IRepository.pdb

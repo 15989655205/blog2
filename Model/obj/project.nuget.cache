@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XcaoyLWgVxfdy9Wwb/7KbLilV+sBsqKSr7IieAKgfDyONalHT39yJAK8GeVXZy52grpEF+F2xl7nHjmYHkqgjg==",
+  "dgSpecHash": "URzG4bQxhuMajcciOo68zmHGSOPNY9qb42Kt482TSPgrAzHklMnKkVte1Pk8CFyjvS1VEr+5e0CMF/572p5V9w==",
   "success": true,
-  "projectFilePath": "G:\\net core\\net core\\Model\\Model.csproj",
+  "projectFilePath": "G:\\net core\\net core2\\Model\\Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\L\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\microsoft.data.sqlite\\2.0.0\\microsoft.data.sqlite.2.0.0.nupkg.sha512",

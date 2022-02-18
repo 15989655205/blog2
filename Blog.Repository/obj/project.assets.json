@@ -7656,19 +7656,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\L\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ljj\\C#\\core\\blog2\\Blog.Repository\\Blog.Repository.csproj",
+      "projectUniqueName": "G:\\net core\\net core2\\Blog.Repository\\Blog.Repository.csproj",
       "projectName": "Blog.Repository",
-      "projectPath": "D:\\ljj\\C#\\core\\blog2\\Blog.Repository\\Blog.Repository.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\ljj\\C#\\core\\blog2\\Blog.Repository\\obj\\",
+      "projectPath": "G:\\net core\\net core2\\Blog.Repository\\Blog.Repository.csproj",
+      "packagesPath": "C:\\Users\\L\\.nuget\\packages\\",
+      "outputPath": "G:\\net core\\net core2\\Blog.Repository\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\L\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7681,8 +7685,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\ljj\\C#\\core\\blog2\\IRepository\\Blog.IRepository.csproj": {
-              "projectPath": "D:\\ljj\\C#\\core\\blog2\\IRepository\\Blog.IRepository.csproj"
+            "G:\\net core\\net core2\\IRepository\\Blog.IRepository.csproj": {
+              "projectPath": "G:\\net core\\net core2\\IRepository\\Blog.IRepository.csproj"
             }
           }
         }
@@ -7720,7 +7724,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   },

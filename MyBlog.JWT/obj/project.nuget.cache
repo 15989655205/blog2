@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "utLRNbhM5uSHhrYb7+Ne9aGuPnxzRwS15cEevqMBfM9q6sFyNrAtbX45rSWWG3s/CXdSTrbvHi0iMCPf3PcrKg==",
+  "dgSpecHash": "E0PMBabjLX8mGqLnqUbSG4tv0uESxtvh79KSIUdfd0K6vYrvSQdJ98X3WDxTZ1wQSvhycW8QRzzKGJu0vF4upA==",
   "success": true,
-  "projectFilePath": "G:\\net core\\net core\\MyBlog.JWT\\MyBlog.JWT.csproj",
+  "projectFilePath": "G:\\net core\\net core2\\MyBlog.JWT\\MyBlog.JWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\L\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\jwt\\8.9.0\\jwt.8.9.0.nupkg.sha512",

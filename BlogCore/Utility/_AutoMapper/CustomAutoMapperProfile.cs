@@ -14,7 +14,7 @@ namespace BlogCore.Utility._AutoMapper
         {
             base.CreateMap<WriterInfo, WriterDTO>();
             base.CreateMap<BlogNews, BlogNewsDTO>()
-             .ForMember(x=>x.TypeName,source=>source.MapFrom(src=>src.TypeInfo.Name))
+             .ForMember(x => x.TypeName, source => source.MapFrom(src => src.TypeInfo.Name))
              .ForMember(x => x.WriterName, source => source.MapFrom(src => src.WriterInfo.Name));
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/h3TVYsj27nKX1OUknkY0WiN6J30L1t4bFmkF/W8tufEV+YDvz5NtgWttncVECqrd2Uqr/OV5v4nyYbCbxbpIw==",
+  "dgSpecHash": "cVXKYuz28ZHaEglLRzkc2uNeDtEeWSfXEePm15NkIYTNIp8OMnVsmG8c+P9aVfSVJhazdw5LEFUtpGS8IOIzrA==",
   "success": true,
-  "projectFilePath": "G:\\net core\\net core\\Blog.Repository\\Blog.Repository.csproj",
+  "projectFilePath": "G:\\net core\\net core2\\Blog.Repository\\Blog.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\L\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\L\\.nuget\\packages\\microsoft.data.sqlite\\2.0.0\\microsoft.data.sqlite.2.0.0.nupkg.sha512",

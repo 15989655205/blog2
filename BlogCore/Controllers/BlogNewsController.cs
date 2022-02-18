@@ -90,12 +90,12 @@ namespace BlogCore.Controllers
             }
             return ApiResultHelper.Success(res);
         }
-        [HttpGet("BlogNews")]
+        [HttpGet("GetBlogNewsPage")]
         public async Task<ActionResult<ApiResult>> GetBlogNewsPage([FromServices]IMapper mapper,int page,int size)
         {
             RefAsync<int>  total = 0; 
             var data = await _iBlogNewsService.QueryAsync(page,size, total);
-            var result= mapper.Map<BlogNewsDTO>(data);
+            var result= mapper.Map<List<BlogNewsDTO>>(data);
             if (data == null)
             {
                 return ApiResultHelper.Error("没有更多的值");

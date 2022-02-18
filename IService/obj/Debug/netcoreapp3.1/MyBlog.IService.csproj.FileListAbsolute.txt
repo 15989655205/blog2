@@ -21,3 +21,15 @@ D:\ljj\C#\core\blog2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.AssemblyIn
 D:\ljj\C#\core\blog2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.CopyComplete
 D:\ljj\C#\core\blog2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.dll
 D:\ljj\C#\core\blog2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.pdb
+G:\net core\net core2\IService\bin\Debug\netcoreapp3.1\MyBlog.IService.deps.json
+G:\net core\net core2\IService\bin\Debug\netcoreapp3.1\MyBlog.IService.dll
+G:\net core\net core2\IService\bin\Debug\netcoreapp3.1\MyBlog.IService.pdb
+G:\net core\net core2\IService\bin\Debug\netcoreapp3.1\Model.dll
+G:\net core\net core2\IService\bin\Debug\netcoreapp3.1\Model.pdb
+G:\net core\net core2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csprojAssemblyReference.cache
+G:\net core\net core2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.AssemblyInfoInputs.cache
+G:\net core\net core2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.AssemblyInfo.cs
+G:\net core\net core2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.CoreCompileInputs.cache
+G:\net core\net core2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.csproj.CopyComplete
+G:\net core\net core2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.dll
+G:\net core\net core2\IService\obj\Debug\netcoreapp3.1\MyBlog.IService.pdb
